@@ -3,7 +3,9 @@
 This is the technical entry assessment for the **(SCTP) Advanced Professional Certificate in Data Science and AI** programme.
 
 ---
+
 **TL;DR:** Fork this repo, answer the questions in `src/`, push your changes, then submit your fork URL on the NTU Survey Portal. 
+
 ---
 
 ### About this Assessment
