@@ -62,7 +62,7 @@ Click the **Fork** button at the top-right of this page. This creates your own c
 Open your terminal and run:
 
 ```bash
-git clone https://github.com/<your-username>/5m-data-entry-test.git
+git clone https://github.com/<your-username>/5m-data-entry-test-v2.git
 ```
 
 Replace `<your-username>` with your actual GitHub username. This downloads your forked repo so you can work on the files locally.
